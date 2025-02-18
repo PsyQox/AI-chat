@@ -1,7 +1,7 @@
-# AI Chat
+# Assistant AI Chat
 This is a AI chat bot to practice my habilities.
 
-## Steps to use my AI chat bot
+## Steps to use my Assistant AI chat bot
 - Navigate to server folder and use npm install command.
 - Navigate to client folder and use npm install command.
 - Configure `.env` archive in `server/.env`, the content of this archive is the next:
